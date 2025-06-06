@@ -4,7 +4,7 @@ Este repositório contém a solução do desafio técnico proposto pela **Tropa 
 
 ## ✅ Requisitos atendidos
 
-- [x] Projeto desenvolvido com **React** + **Vite**
+- [x] Projeto desenvolvido com **React** 
 - [x] Estilização com **Styled Components**
 - [x] **React Router DOM** para gerenciamento de rotas
 - [x] Fluxo de **login simulado** funcional
