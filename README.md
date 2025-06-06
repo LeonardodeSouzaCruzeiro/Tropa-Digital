@@ -1,12 +1,52 @@
-# React + Vite
+# 🚀 Desafio - Tropa Digital
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositório contém a solução do desafio técnico proposto pela **Tropa Digital**, desenvolvida com foco em performance, organização e atenção aos detalhes de layout e responsividade.
 
-Currently, two official plugins are available:
+## ✅ Requisitos atendidos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [x] Projeto desenvolvido com **React** + **Vite**
+- [x] Estilização com **Styled Components**
+- [x] **React Router DOM** para gerenciamento de rotas
+- [x] Fluxo de **login simulado** funcional
+- [x] Layout responsivo e fiel ao modelo proposto
+- [x] Código limpo, modular e com boas práticas
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧰 Tecnologias principais
+
+| Categoria           | Ferramentas                            |
+|---------------------|----------------------------------------|
+| UI Framework        | `react`, `react-dom`                  |
+| Build Tool          | `vite`, `@vitejs/plugin-react`        |
+| Estilização         | `styled-components`                   |
+| Animações           | `framer-motion`                       |
+| Roteamento          | `react-router-dom`                    |
+| Qualidade de Código | `eslint`, `eslint-plugin-react-*`     |
+
+---
+
+## 🔐 Demonstração do Login
+
+> Clique no botão “Preenchimento automático” para simular o login.
+
+🖥️ Acesse o projeto hospedado em:  
+👉 [`https://tropa-digital-mzkq.vercel.app`](https://tropa-digital-mzkq.vercel.app)
+
+---
+
+## 🎥 Vídeo de Demonstração
+
+[![Assista ao vídeo](https://img.youtube.com/vi/5YvUCG_losU/hqdefault.jpg)](https://youtu.be/5YvUCG_losU)
+
+---
+
+
+## 💡 Diferenciais aplicados
+
+- Interface fluida com animações sutis usando **Framer Motion**
+- Código tipado com atenção à escalabilidade
+- Layout responsivo pensado para dispositivos móveis e desktops
+- Organização de pastas clara e consistente
+
+
