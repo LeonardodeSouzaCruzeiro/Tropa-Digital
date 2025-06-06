@@ -1,8 +1,4 @@
-"scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "postinstall": "chmod +x node_modules/.bin/vite"
-}
+
 {
   "name": "tropa",
   "private": true,
@@ -13,6 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+    "postinstall": "chmod +x node_modules/.bin/vite"
   },
   "dependencies": {
     "framer-motion": "^12.16.0",
